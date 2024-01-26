@@ -1,0 +1,1 @@
+# wello-sales-odoo-connector
